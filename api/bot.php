@@ -2,7 +2,7 @@
 // --- الإعدادات الأساسية ---
 $botToken = "8505457388:AAGZSyQjXYpBNO5ED0O3XMg6dF6vkKpwnis";
 $firebaseUrl = "https://lolaminig-afea4-default-rtdb.firebaseio.com/users";
-$adminId = "123456789"; // !!! ضَع هنا الآيدي الخاص بك (يمكنك الحصول عليه من @userinfobot)
+$adminId = "7384284034"; // !!! ضَع هنا الآيدي الخاص بك (يمكنك الحصول عليه من @userinfobot)
 
 $content = file_get_contents("php://input");
 $update = json_decode($content, true);
